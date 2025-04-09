@@ -36,12 +36,11 @@ Then click **File > Make a copy**
 **Select *Dropdown (from a range)***
 
 **Use a constant range from any sheet of your file**
-- `=Name_to_flag[SORTED name]` for common names
-- `=ISO_to_flag[SORTED ISO]` for ISO codes
+- `=Name2Flag[Name]` for common names
+- `=Name2Flag[ISO A-2]` for ISO codes
 
-**If you want a customized country order, like *United States* on top of the dropdown list**
-1. Reorder the rows of the table [Name_to_flag] as you desire
-2. Uses this formula from any other sheet `=VLOOKUP(A1,Name_to_flag,3,FALSE)`, where A1 is the cell of your dropdown list
+**You can customize the country order**
+- like *United States* and tech countries on the top of the dropdown list**
 
 <img src="https://github.com/user-attachments/assets/989e0c71-b1c2-49e1-9f4d-b276be11a0e0" width="250">
 
