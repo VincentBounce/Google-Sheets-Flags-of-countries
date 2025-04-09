@@ -1,4 +1,4 @@
-# 🌎Google Sheets: 257 HD flags of all countries 
+# 🌎Google Sheets: 257 flags of all countries 
 
 ## Open the sheet from this link
 
@@ -8,7 +8,7 @@ Then click **File > Make a copy**
 
 ## Fetchable fields
 
-- Flag: PNG HD | Emoji (⚠️*Emojis are displayed as a country code on Windows 11*)
+- Flag: from an HD PNG | Emoji (⚠️*Emojis are displayed as a country code on Windows 11*)
 - Phone prefixe
 - Language ISO 639-1 code(s)
 - Top-level domain(s)
