@@ -17,6 +17,8 @@ Then click **File > Make a copy**
 - Country names: Common name | ISO 3166 name | Official state name
 - Wikipedia article links: country | SVG flag | ISO | domain name
 
+![image](https://github.com/user-attachments/assets/c6b3ee33-4564-49b5-8be4-a6b81902ba28)
+
 ## Fetch HD flag by name or by ISO code
 
 **You can retrieve the HD image of your flag**
@@ -29,7 +31,7 @@ Then click **File > Make a copy**
 - of country set like European Union 🇪🇺
 - worldwide symbol 🌐
 
-![image](https://github.com/user-attachments/assets/c6b3ee33-4564-49b5-8be4-a6b81902ba28)
+![image](https://github.com/user-attachments/assets/2822c3ff-d642-4348-bf0f-42592a5ae833)
 
 ## Dropdown menu
 
@@ -43,5 +45,3 @@ Then click **File > Make a copy**
 - like *United States* and tech countries on the top of the dropdown list**
 
 <img src="https://github.com/user-attachments/assets/989e0c71-b1c2-49e1-9f4d-b276be11a0e0" width="250">
-
-![image](https://github.com/user-attachments/assets/2822c3ff-d642-4348-bf0f-42592a5ae833)
