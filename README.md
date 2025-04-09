@@ -10,7 +10,8 @@ Then click **File > Make a copy**
 
 - Flag: PNG HD | Emoji (⚠️*Emojis are displayed as a country code on Windows 11*)
 - Phone prefixe
-- Domain names
+- Language ISO 639-1 code(s)
+- Top-level domain(s)
 - Area of country
 - Population 2024
 - Country ISO 3166-1 codes: A-2 (2 letters) | A-3 (3 letters) | numeric
