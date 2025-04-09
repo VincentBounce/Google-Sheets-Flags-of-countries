@@ -20,8 +20,8 @@ Then click **File > Make a copy**
 ## Fetch HD flag by name or by ISO code
 
 **You can retrieve the HD image of your flag**
-- by common name `=VLOOKUP("France",Name_to_flag,3,FALSE)`
-- by ISO code `=VLOOKUP("FR",ISO_to_flag,3,FALSE)`
+- by common name `=XLOOKUP("France",Name2Flag[Name],Name2Flag[Image])`
+- by ISO code `=XLOOKUP("France",Name2Flag[ISO A-2],Name2Flag[Image])`
 - using a dropdown menu 
 
 **You can fetch flag**
@@ -29,15 +29,7 @@ Then click **File > Make a copy**
 - of country set like European Union 🇪🇺
 - worldwide symbol 🌐
 
-![image](https://github.com/user-attachments/assets/2822c3ff-d642-4348-bf0f-42592a5ae833)
-
-## Fetch by name
-
-![image](https://github.com/user-attachments/assets/5bb14fa7-ba1a-48b2-9e9b-e7403a56ecb3)
-
-## Fetch by ISO 2-letter code
-
-![image](https://github.com/user-attachments/assets/150247ab-b792-4174-9d37-235054139a26)
+![image](https://github.com/user-attachments/assets/c6b3ee33-4564-49b5-8be4-a6b81902ba28)
 
 ## Dropdown menu
 
@@ -52,3 +44,5 @@ Then click **File > Make a copy**
 2. Uses this formula from any other sheet `=VLOOKUP(A1,Name_to_flag,3,FALSE)`, where A1 is the cell of your dropdown list
 
 <img src="https://github.com/user-attachments/assets/989e0c71-b1c2-49e1-9f4d-b276be11a0e0" width="250">
+
+![image](https://github.com/user-attachments/assets/2822c3ff-d642-4348-bf0f-42592a5ae833)
