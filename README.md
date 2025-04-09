@@ -33,7 +33,6 @@ Then click **File > Make a copy**
 
 ![image](https://github.com/user-attachments/assets/6e9a6f6a-b332-4aab-8d22-87ce0c0268f4)
 
-
 ## Dropdown menu
 
 **Select *Dropdown (from a range)***
@@ -45,4 +44,4 @@ Then click **File > Make a copy**
 **You can customize the country order**
 - like *United States* and tech countries on the top of the dropdown list**
 
-<img src="https://github.com/user-attachments/assets/f18453da-a5e8-428d-a926-edd5590e7b06" width="250">
+<img src="https://github.com/user-attachments/assets/f18453da-a5e8-428d-a926-edd5590e7b06" width="260">
