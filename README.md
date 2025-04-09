@@ -31,7 +31,8 @@ Then click **File > Make a copy**
 - of country set like European Union 🇪🇺
 - worldwide symbol 🌐
 
-![image](https://github.com/user-attachments/assets/2822c3ff-d642-4348-bf0f-42592a5ae833)
+![image](https://github.com/user-attachments/assets/6e9a6f6a-b332-4aab-8d22-87ce0c0268f4)
+
 
 ## Dropdown menu
 
@@ -44,4 +45,4 @@ Then click **File > Make a copy**
 **You can customize the country order**
 - like *United States* and tech countries on the top of the dropdown list**
 
-<img src="https://github.com/user-attachments/assets/989e0c71-b1c2-49e1-9f4d-b276be11a0e0" width="250">
+<img src="https://github.com/user-attachments/assets/f18453da-a5e8-428d-a926-edd5590e7b06" width="250">
