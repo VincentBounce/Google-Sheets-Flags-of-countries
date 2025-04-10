@@ -18,7 +18,10 @@ Then click **File > Make a copy**
 - Country name: Short name | ISO 3166 name | Official state name
 - Wikipedia article links: country | SVG flag | ISO | domain name
 
-![image](https://github.com/user-attachments/assets/c6b3ee33-4564-49b5-8be4-a6b81902ba28)
+![image](https://github.com/user-attachments/assets/75766372-1682-49c6-91e2-85d2d7138f12)
+
+![image](https://github.com/user-attachments/assets/d3eece11-6055-4399-8403-8cd588102794)
+
 
 ## Fetch HD flag by name or by ISO code
 
