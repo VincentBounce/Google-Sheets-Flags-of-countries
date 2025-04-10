@@ -22,7 +22,6 @@ Then click **File > Make a copy**
 
 ![image](https://github.com/user-attachments/assets/d3eece11-6055-4399-8403-8cd588102794)
 
-
 ## Fetch HD flag by name or by ISO code
 
 **You can retrieve the HD image of your flag**
@@ -35,7 +34,7 @@ Then click **File > Make a copy**
 - of country set like European Union 🇪🇺
 - worldwide symbol 🌐
 
-![image](https://github.com/user-attachments/assets/6e9a6f6a-b332-4aab-8d22-87ce0c0268f4)
+![image](https://github.com/user-attachments/assets/89937f46-af88-4759-a819-172dc3b5bcb6)
 
 ## Dropdown menu
 
