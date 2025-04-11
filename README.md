@@ -2,7 +2,7 @@
 
 ## Open the sheet from this link
 
-**https://docs.google.com/spreadsheets/d/1uazDIHQxew4WJWd_lhYgIPeBIvMke89q6384BCxpJjg/**
+**https://docs.google.com/spreadsheets/d/1uazDIHQxew4WJWd_lhYgIPeBIvMke89q6384BCxpJjg**
 
 Then click **File > Make a copy**
 
