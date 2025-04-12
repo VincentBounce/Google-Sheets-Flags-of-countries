@@ -8,7 +8,7 @@ Then click **File > Make a copy**
 
 ## Fetchable fields
 
-- Flag: *4K PNG | Emoji ⚠️Emojis are displayed as a country code on Windows 11*
+- Flag: *HD PNG | Emoji ⚠️Emojis are displayed as a country code on Windows 11*
 - Phone prefix
 - Language ISO 639-1 code(s)
 - Top-level domain(s)
