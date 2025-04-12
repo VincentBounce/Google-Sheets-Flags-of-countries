@@ -13,10 +13,14 @@ Then click **File > Make a copy**
 - Language ISO 639-1 code(s)
 - Top-level domain(s)
 - Area of country
+- Continent
+- Region
+- Capital
 - Population 2024
 - Country ISO 3166-1 codes: *A-2 (2 letters) | A-3 (3 letters) | numeric*
 - Country name: *Short name | ISO 3166 name | Official state name*
 - Wikipedia article links: *Country | Flag | ISO | Domain name*
+- Country FIPS 10-04 code
 
 ![image](https://github.com/user-attachments/assets/75766372-1682-49c6-91e2-85d2d7138f12)
 
