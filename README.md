@@ -24,7 +24,7 @@ Then click **File > Make a copy**
 
 ![image](https://github.com/user-attachments/assets/75766372-1682-49c6-91e2-85d2d7138f12)
 
-![image](https://github.com/user-attachments/assets/d3eece11-6055-4399-8403-8cd588102794)
+![image](https://github.com/user-attachments/assets/0e21ee62-0399-4701-9460-86f1de8efa8f)
 
 ## Fetch HD flag by name or by ISO code
 
