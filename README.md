@@ -12,8 +12,9 @@ Then click **File > Make a copy**
 - Phone prefix
 - Language ISO 639-1 code(s)
 - Top-level domain(s)
-- Continent
-- Region
+- Currencies
+- Groups: *UN | EU | BRICS | G20 | G7 | GCC | AU | ASEAN | NATO | Mercosur*
+- Continent | Region
 - Capital
 - Sovereignity
 - Area of the country
