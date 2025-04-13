@@ -1,4 +1,4 @@
-# 🌎Google Sheets: 257 flags of all countries 
+# 𓊁Google Sheets 🇺🇳 257 flags of all countries 
 
 ## Open the sheet from this link
 
