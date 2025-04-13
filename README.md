@@ -31,8 +31,8 @@ Then click **File > Make a copy**
 ## Fetch HD flag by name or by ISO code
 
 **You can retrieve the HD image of your flag**
-- by common name `=XLOOKUP("France",Name2Flag[Name],Name2Flag[Image])`
-- by ISO code `=XLOOKUP("France",Name2Flag[ISO A-2],Name2Flag[Image])`
+- by common name `=XLOOKUP("France",Flags[Short name],Flags[Image])`
+- by ISO code `=XLOOKUP("France",Flags[ISO A-2],Flags[Image])`
 - using a dropdown menu 
 
 **You can fetch flag**
@@ -47,8 +47,8 @@ Then click **File > Make a copy**
 **RightClick > *Dropdown* > Select *Dropdown (from a range)***
 
 **Use a constant range from any sheet of your file**
-- `=Name2Flag[Name]` for common names
-- `=Name2Flag[ISO A-2]` for ISO codes
+- `=Flags[Short name]` for common names
+- `=Flags[ISO A-2]` for ISO codes
 
 **You can customize the country order**
 - like *United States* and tech countries on the top of the dropdown list**
