@@ -1,12 +1,12 @@
 # 𓊁Google Sheets 🇺🇳 257 flags of all countries 
 
-## Open the sheet from this link
+## 👌To fork & use this spreadsheet
 
 Open **https://docs.google.com/spreadsheets/d/1uazDIHQxew4WJWd_lhYgIPeBIvMke89q6384BCxpJjg**
 
 Then click **File > Make a copy**
 
-## Fetchable fields
+## 🗂️Fetchable fields
 
 - Flag: *HD PNG | Emoji ⚠️Emojis are displayed as a country code on Windows 11*
 - Phone prefix
@@ -28,7 +28,7 @@ Then click **File > Make a copy**
 
 ![image](https://github.com/user-attachments/assets/0e21ee62-0399-4701-9460-86f1de8efa8f)
 
-## Fetch HD flag by name or by ISO code
+## 🏁Fetch HD flag by name or by ISO code
 
 **You can retrieve the HD image of your flag**
 - by common name `=XLOOKUP("France",Flags[Short name],Flags[Image])`
@@ -42,7 +42,7 @@ Then click **File > Make a copy**
 
 ![image](https://github.com/user-attachments/assets/03de2b2c-c8cb-4d11-8294-8a1ab19c0cf8)
 
-## Dropdown menu
+## (˅)Dropdown menu
 
 **RightClick > *Dropdown* > Select *Dropdown (from a range)***
 
