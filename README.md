@@ -41,7 +41,7 @@ Then click **File > Make a copy**
 - of country set like European Union 🇪🇺
 - worldwide symbol 🌐
 
-![image](https://github.com/user-attachments/assets/03de2b2c-c8cb-4d11-8294-8a1ab19c0cf8)
+![image](https://github.com/user-attachments/assets/5f496067-c417-4ba3-b767-93628bdf2c50)
 
 ## (˅)Dropdown menu
 
