@@ -56,7 +56,7 @@ Then click **File > Make a copy**
 
 <img src="https://github.com/user-attachments/assets/07c40bdf-fed8-49ba-ba7c-6efabee88557" width="260">
 
-## 🔍Explore all flags
+## 🔍Explore the details of all flags
 
 Select **🎓Wide flags tab**
 
