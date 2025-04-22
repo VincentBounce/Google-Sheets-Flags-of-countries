@@ -24,9 +24,10 @@ Then click **File > Make a copy**
 - Wikipedia article links: *Country | Flag | ISO | Domain name*
 - Country FIPS 10-04 code
 
-![image](https://github.com/user-attachments/assets/75766372-1682-49c6-91e2-85d2d7138f12)
+![image](https://github.com/user-attachments/assets/cd8e5d79-5d8c-4f9d-b546-e1d5309f7784)
 
-![image](https://github.com/user-attachments/assets/0e21ee62-0399-4701-9460-86f1de8efa8f)
+![image](https://github.com/user-attachments/assets/357bb8cb-fb2c-4d1b-ba5a-0a19d36cd6d8)
+
 
 ## 🏁Fetch SVG flag by name or by ISO code
 
