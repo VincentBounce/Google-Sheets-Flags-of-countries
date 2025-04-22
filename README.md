@@ -52,6 +52,6 @@ Then click **File > Make a copy**
 - `=Flags[ISO A-2]` for ISO codes
 
 **You can customize the country order**
-- like *United States* and tech countries on the top of the dropdown list**
+- for example *United States* and tech countries on the top of the dropdown list
 
 <img src="https://github.com/user-attachments/assets/07c40bdf-fed8-49ba-ba7c-6efabee88557" width="260">
