@@ -8,21 +8,21 @@ Then click **File > Make a copy**
 
 ## 🗂️Fetchable fields
 
-- Flag: *Vectorial SVG | PNG | Emoji ⚠️Emojis are displayed as a country code on Windows 11*
-- Phone prefix
-- Language ISO 639-1 code(s)
-- Top-level domain(s)
-- Currencies
-- Groups: *UN | EU | BRICS | G20 | G7 | GCC | AU | ASEAN | NATO | Mercosur*
-- Continent | Region
-- Capital
-- Sovereignity
-- Area of the country
-- Population
-- Country ISO 3166-1 codes: *A-2 (2 letters) | A-3 (3 letters) | numeric*
-- Country name: *Short name | ISO 3166 name | Official state name*
-- Wikipedia article links: *Country | Flag | ISO | Domain name*
-- Country FIPS 10-04 code
+- **Flag** Vectorial SVG | PNG | Emoji *⚠️Emojis are displayed as a country code on Windows 11*
+- **Phone prefix**
+- **Language ISO 639-1 code(s)**
+- **Top-level domain(s)**
+- **Currencies**
+- **Groups** UN | EU | BRICS | G20 | G7 | GCC | AU | ASEAN | NATO | Mercosur
+- **Continent | Region**
+- **Capital**
+- **Sovereignity**
+- **Area of the country**
+- **Population**
+- **Country ISO 3166-1 codes** A-2 (2 letters) | A-3 (3 letters) | numeric
+- **Country name** Short name | ISO 3166 name | Official state name
+- **Wikipedia article links** Country | Flag | ISO | Domain name
+- **Country FIPS 10-04 code**
 
 ![image](https://github.com/user-attachments/assets/cd8e5d79-5d8c-4f9d-b546-e1d5309f7784)
 
