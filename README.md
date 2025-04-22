@@ -28,7 +28,6 @@ Then click **File > Make a copy**
 
 ![image](https://github.com/user-attachments/assets/357bb8cb-fb2c-4d1b-ba5a-0a19d36cd6d8)
 
-
 ## 🏁Fetch SVG or PNG flag by name or by ISO code
 
 **You can retrieve the SVG image of your flag**
@@ -56,3 +55,13 @@ Then click **File > Make a copy**
 - for example *United States* and tech countries on the top of the dropdown list
 
 <img src="https://github.com/user-attachments/assets/07c40bdf-fed8-49ba-ba7c-6efabee88557" width="260">
+
+## 🔍Explore all flags
+
+Select **🎓Wide flags tab**
+
+Click **View > Full screen**
+
+Then **scroll up/down**
+
+![Screenshot 2025-04-23 at 00 15 32](https://github.com/user-attachments/assets/31a489d7-5f6b-49f6-b8d1-a24d9b91c0d3)
