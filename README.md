@@ -1,4 +1,4 @@
-# 𓊁Google Sheets 🇺🇳 257 flags of all countries 
+# 𓊁Google Sheets 🇺🇳 257 vectorial flags of all countries 
 
 ## 👌To fork & use this spreadsheet
 
@@ -8,7 +8,7 @@ Then click **File > Make a copy**
 
 ## 🗂️Fetchable fields
 
-- Flag: *HD PNG | Emoji ⚠️Emojis are displayed as a country code on Windows 11*
+- Flag: *Vectorial SVG | Emoji ⚠️Emojis are displayed as a country code on Windows 11*
 - Phone prefix
 - Language ISO 639-1 code(s)
 - Top-level domain(s)
@@ -28,7 +28,7 @@ Then click **File > Make a copy**
 
 ![image](https://github.com/user-attachments/assets/0e21ee62-0399-4701-9460-86f1de8efa8f)
 
-## 🏁Fetch HD flag by name or by ISO code
+## 🏁Fetch SVG flag by name or by ISO code
 
 **You can retrieve the HD image of your flag**
 - by common name `=XLOOKUP("France",Flags[Short name],Flags[Image])`
