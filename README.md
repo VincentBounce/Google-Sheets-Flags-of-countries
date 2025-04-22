@@ -53,4 +53,4 @@ Then click **File > Make a copy**
 **You can customize the country order**
 - like *United States* and tech countries on the top of the dropdown list**
 
-<img src="https://github.com/user-attachments/assets/f18453da-a5e8-428d-a926-edd5590e7b06" width="260">
+<img src="https://github.com/user-attachments/assets/07c40bdf-fed8-49ba-ba7c-6efabee88557" width="260">
