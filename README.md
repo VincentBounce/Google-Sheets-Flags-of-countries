@@ -58,7 +58,7 @@ Then click **File > Make a copy**
 
 ## 🔍Explore the details of all flags
 
-Select **🎓Wide flags tab**
+Select **🎓Wide flags** tab
 
 Click **View > Full screen**
 
