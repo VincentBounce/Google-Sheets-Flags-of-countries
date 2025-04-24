@@ -64,4 +64,5 @@ Click **View > Full screen**
 
 Then **scroll up/down**
 
-![Screenshot 2025-04-23 at 00 15 32](https://github.com/user-attachments/assets/31a489d7-5f6b-49f6-b8d1-a24d9b91c0d3)
+![Screenshot 2025-04-24 at 11 57 14](https://github.com/user-attachments/assets/8b723874-a857-4fe1-b88c-fae85dd9a46e)
+
