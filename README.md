@@ -28,18 +28,22 @@ Then click **File > Make a copy**
 
 ![image](https://github.com/user-attachments/assets/357bb8cb-fb2c-4d1b-ba5a-0a19d36cd6d8)
 
-## 🏁Fetch SVG or PNG flag by name or by ISO code
+## 🇺🇳Fetch SVG or PNG flag by name or by ISO code
 
 **You can retrieve the SVG image of your flag**
 - by common name `=XLOOKUP("France",Flags[Short name],Flags[Image])`
 - by ISO code `=XLOOKUP("France",Flags[ISO A-2],Flags[Image])`
-- using a dropdown menu 
+- using a dropdown menu
 
 **You can fetch flag**
 - of every country flag 🇺🇸🇫🇷🇬🇧🇨🇭🇯🇵🇨🇳...
 - of country set like European Union 🇪🇺
 - worldwide symbol 🌐
-- PNG as well `=XLOOKUP("France",Flags[Short name],Flags[330px])`
+- in PNG as well `=XLOOKUP("France",Flags[Short name],Flags[330px])`
+
+**Dynamic imports are made from Wikipedia (Wikimedia Commons)**
+- Wikipedia is the most reliable website for those resources
+- the risk of dead links is minimal
 
 ![image](https://github.com/user-attachments/assets/5f496067-c417-4ba3-b767-93628bdf2c50)
 
