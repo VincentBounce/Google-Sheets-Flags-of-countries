@@ -44,6 +44,8 @@ Then click **File > Make a copy**
 **Dynamic imports are made from Wikipedia (Wikimedia Commons)**
 - Wikipedia is the most reliable website for those resources
 - the risk of dead links is minimal
+- `[Images]` column contains copy SVG flags. No external required.
+- `[330px]` colomn contains crawled PNG flags from Wikipedia. It can be pasted as value to `[Images]` column.
 
 ![image](https://github.com/user-attachments/assets/5f496067-c417-4ba3-b767-93628bdf2c50)
 
