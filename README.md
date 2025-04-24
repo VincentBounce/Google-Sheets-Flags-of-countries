@@ -56,13 +56,11 @@ Then click **File > Make a copy**
 
 <img src="https://github.com/user-attachments/assets/07c40bdf-fed8-49ba-ba7c-6efabee88557" width="260">
 
-## 🔍Explore the details of all flags
+## 🔍Explore the details of all flags: vectorial SVG & Apple emoji flags
 
-Select **🎓Wide flags** tab
-
-Click **View > Full screen**
-
-Then **scroll up/down**
+- Select **🎓Wide flags** tab
+- Click **View > Full screen**
+- Then **scroll up/down**
 
 ![Screenshot 2025-04-24 at 11 57 14](https://github.com/user-attachments/assets/8b723874-a857-4fe1-b88c-fae85dd9a46e)
 
