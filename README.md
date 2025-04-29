@@ -71,3 +71,6 @@ Then click **File > Make a copy**
 
 ![Screenshot 2025-04-24 at 11 57 14](https://github.com/user-attachments/assets/8b723874-a857-4fe1-b88c-fae85dd9a46e)
 
+## 😉 Author 🇫🇷 Vincent ᗱƆᑌᑎϹᗴ
+
+**𝕏 [@VincentBounce](https://x.com/VincentBounce)** | **YouTube [@VincentBounce](https://www.youtube.com/@VincentBounce/)** | **Instagram [@VincentBounce](https://instagr.am/vincentbounce/)**
